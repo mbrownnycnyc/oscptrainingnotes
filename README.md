@@ -1,4 +1,4 @@
-My background:
+## My background:
 
 I've been a functional IT dude since 2005, having a computer hobby since the late '90s.
 I have a CISSP and have good technical know-how, but have been both an infarstructure and security generalist (which includes L1/L2 incident response activities, security engineering, vulnerability assessments, pentest remediations, etc).
