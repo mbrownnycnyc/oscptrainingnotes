@@ -50,3 +50,4 @@ I now have a baby, so I'm trying to be practical as I can't realistically site a
 * https://cas.vancooten.com/posts/2020/05/oscp-cheat-sheet-and-command-reference/
 * https://github.com/peanuthacker92/oscp-command-filtering-tool
 * https://www.kitploit.com/2020/04/peass-privilege-escalation-awesome.html
+* https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
