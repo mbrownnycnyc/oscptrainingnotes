@@ -2,7 +2,8 @@
 
 I've been a functional IT dude since 2005, having a computer hobby since the late '90s.
 I have a CISSP and have good technical know-how, but have been both an infarstructure and security generalist (which includes L1/L2 incident response activities, security engineering, vulnerability assessments, pentest remediations, etc).
-I now have a baby, so I'm trying to be practical as I can't realistically site and study for "127 hours" in 30 days.
+
+I now have a baby, so I'm trying to be practical as I can't realistically study for "127 hours" in 30 days.
 
 
 1. I watched this video: https://www.youtube.com/watch?v=V5sL0KQ0Usk
@@ -46,8 +47,12 @@ I now have a baby, so I'm trying to be practical as I can't realistically site a
 
 # lists/cheat sheets
 
-* https://ceso.github.io/posts/2020/04/hacking/oscp-cheatsheet/
-* https://cas.vancooten.com/posts/2020/05/oscp-cheat-sheet-and-command-reference/
+## lists
 * https://github.com/peanuthacker92/oscp-command-filtering-tool
 * https://www.kitploit.com/2020/04/peass-privilege-escalation-awesome.html
+* https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0
+
+## cheat sheets
+* https://ceso.github.io/posts/2020/04/hacking/oscp-cheatsheet/
+* https://cas.vancooten.com/posts/2020/05/oscp-cheat-sheet-and-command-reference/
 * https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/
