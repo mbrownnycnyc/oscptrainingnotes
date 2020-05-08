@@ -15,6 +15,30 @@
   * this is not be ideal for a target.
   * when I have an engagement. I spin up a digitalocean VM, install kali and use that single OS instance to attack that client.  This is when I use the remote-ssh extension.
 
+### wanna here it?  here it go...
+
+1. install git for windows
+2. install vscode for windows
+3. start a github account
+4. initialize a repo (in github, sure)
+5. copy the "clone or download" URL for that repo
+6. set the user info on your machine:
+```
+git config --global user.email "nope@no.com"
+git config --global user.name "Matt"
+```
+7. open vscode
+8. trigger the command pallet with ctrl+shift+p
+9. type "git: clone"
+10. provide the clone URL for the repo in (I use ../user/$username/documents/repos
+11. create a new file, modify it.  changes will be tracked.
+12. Save as you would normally.
+12. when you are ready to commit all changes to the repo, click on the source fork icon on the left sidebar menu, then click the checkmark.  Stage all changes.
+14. near the bottom there will be an up arrow with "1" next to it, you can click on this to push
+
+Note, it is faster to commit and push via the command pallet (ctrl+shift+p, "git: commit", "git: push"
+
+
 ## Hey, why not?
 
 * I'm feeling fancy, and would love to use jupyter notebooks.

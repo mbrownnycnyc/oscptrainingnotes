@@ -1,8 +1,9 @@
 My background:
 
 I've been a functional IT dude since 2005, having a computer hobby since the late '90s.
-I have a CISSP and have good technical know-how, but have been both an infarstructure and security generalist (which includes L1/L2 incident response activities, security engineering, vulnerability assessments, pentest remediations, etc).
-I now have a baby, so I'm trying to be practical as I can't realistically site and study for "127 hours" in 30 days.
+I have a CISSP and have good technical know-how, but have been both an infrastructure and security generalist (which includes L1/L2 incident response activities, security engineering, vulnerability assessments, pentest remediations, NIST framework auditing, etc).
+
+I now have a baby, so I'm trying to be practical as I can't realistically study for "127 hours" in 30 days.
 
 
 1. I watched this video: https://www.youtube.com/watch?v=V5sL0KQ0Usk
@@ -15,9 +16,9 @@ I now have a baby, so I'm trying to be practical as I can't realistically site a
 2. I then watched this video: https://www.youtube.com/watch?v=p4twsh9e4-A
 
 * this isn't worth watching necessarily.
-* install OBS: screen capture yourself attacking, and then review.  If you have a machine with an NVIDIA card, you must go through the process detailed here: https://obsproject.com/forum/threads/laptop-black-screen-when-capturing-read-here-first.5965/
+* install OBS: screen capture yourself attacking, and then review.  This is a great idea.  If you have a machine with an NVIDIA card, you must go through the process detailed here: https://obsproject.com/forum/threads/laptop-black-screen-when-capturing-read-here-first.5965/
 
-3. I then figured out that it is definitely worth just watching other people compromising boxes and decided I would watch some practical compromises and watch one a day:
+3. I then figured out that it is definitely worth just watching other people compromising boxes and decided I would watch some practical compromises.
 
 * don't stop and watch all of these now... I'm going to build a long list of videos.  Plan to watch one a day.
 * https://www.youtube.com/watch?v=0Db1sF3Wo6w <-- yea, why not?
@@ -25,7 +26,7 @@ I now have a baby, so I'm trying to be practical as I can't realistically site a
 * ???
 * profit
 
-5. I've been seeking a course, so... this is one: https://www.youtube.com/watch?v=3Kq1MIfTWCE, which is essentially a quick take on this: https://www.youtube.com/watch?v=qlK174d_uu8&list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj (referring to this: https://www.thecybermentor.com/zero-to-hero-pentesting).  Or the updated version on udemy, which I have access to from my company, which is nice: https://www.youtube.com/watch?v=ryzYAP92YOk
+4. I've been seeking a course, so... this is one: https://www.youtube.com/watch?v=3Kq1MIfTWCE, which is essentially a quick take on this: https://www.youtube.com/watch?v=qlK174d_uu8&list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj (referring to this: https://www.thecybermentor.com/zero-to-hero-pentesting).  Or the updated version on udemy, which I have access to from my company, which is nice: https://www.youtube.com/watch?v=ryzYAP92YOk
 
 
 # quick udemy course ref:
@@ -40,9 +41,11 @@ I now have a baby, so I'm trying to be practical as I can't realistically site a
   * https://www.udemy.com/course/the-complete-nmap-ethical-hacking-course-network-security/?start=0
   * https://www.udemy.com/course/complete-python-bootcamp/?course_id=567828
 
+
 # notes
 
 * create a script or playbook for each type of attack.  If http is located, determine the site type (liek wordpress, etc), and then attack given a certain strategy (password spraying into forms, etc).
+
 
 # lists/cheat sheets
 
