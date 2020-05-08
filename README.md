@@ -1,11 +1,7 @@
 ## My background:
 
 I've been a functional IT dude since 2005, having a computer hobby since the late '90s.
-<<<<<<< HEAD:framework.md
 I have a CISSP and have good technical know-how, but have been both an infrastructure and security generalist (which includes L1/L2 incident response activities, security engineering, vulnerability assessments, pentest remediations, NIST framework auditing, etc).
-=======
-I have a CISSP and have good technical know-how, but have been both an infarstructure and security generalist (which includes L1/L2 incident response activities, security engineering, vulnerability assessments, pentest remediations, etc).
->>>>>>> 35194c83ecdfbf4d9b3a31778defc7f133894929:README.md
 
 I now have a baby, so I'm trying to be practical as I can't realistically study for "127 hours" in 30 days.
 
