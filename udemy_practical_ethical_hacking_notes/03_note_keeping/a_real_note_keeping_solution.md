@@ -18,7 +18,7 @@
 ### wanna here it?  here it go...
 
 1. install git for windows
-2. install vscode for windows
+2. install vscode for windows, install the extensions "markdown all in one" by yu zhang and "paste timage" by mushan (hit ctrl+shift+p to bring up the command palette)
 3. start a github account
 4. initialize a repo (in github, sure)
 5. copy the "clone or download" URL for that repo
